@@ -15,22 +15,28 @@ Only rule is that you must have a King. Piece duplicates are permitted & startin
 
 ### New Pieces: 
 #### Devourer 
+moves 1-2 tiles horizontally or vertically and becomes the piece it captures
 ![devourermovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_1_movement_1.PNG/?raw=true)
+</br>
 ![devourermovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_1_movement_2.PNG/?raw=true)
 
 #### Squire / Anti-Pawn
+moves 1 tile diagonally and captures forward (opposite of a standard pawn)
 ![squireantipawnmovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_2_movement_1.PNG/?raw=true)
 ![squireantipawnmovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_2_movement_2.PNG/?raw=true)
 
 #### Archer
+moves 1 tile in any direction within the bounds of the first 2 home rows and captures 2 tiles in front of it
 ![archermovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_3_movement_1.PNG/?raw=true)
 ![archermovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_3_movement_2.PNG/?raw=true)
 
 #### False King
+moves 1 tile in any direction and displays itself as a King until put into checkmate.
 ![falsekingmovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_4_movement_1.PNG/?raw=true)
 ![falsekingmovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_4_movement_2.PNG/?raw=true)
 
 #### Incendiary
+moves 1 tile horivontally or vertically and captures all pieces around the captured tile (3 x 3 area)
 ![incendiarymovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_1.PNG/?raw=true)
 ![incendiarymovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_2.PNG/?raw=true)
 ![incendiarymovement3](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_3.PNG/?raw=true)
