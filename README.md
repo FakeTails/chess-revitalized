@@ -15,22 +15,25 @@ Only rule is that you must have a King. Piece duplicates are permitted & startin
 
 ### New Pieces: 
 #### Devourer 
-![devourer](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_1_devourer.PNG/?raw=true)
+![devourermovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_1_movement_1.PNG/?raw=true)
+![devourermovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_1_movement_2.PNG/?raw=true)
 
 #### Squire / Anti-Pawn
-![squireantipawn](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_2_squire.PNG/?raw=true)
+![squireantipawnmovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_2_movement_1.PNG/?raw=true)
+![squireantipawnmovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_2_movement_2.PNG/?raw=true)
 
 #### Archer
-![archer](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_3_archer.PNG/?raw=true)
+![archermovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_3_movement_1.PNG/?raw=true)
+![archermovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_3_movement_2.PNG/?raw=true)
 
 #### False King
-![falseking](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_4_false_king.PNG/?raw=true)
+![falsekingmovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_4_movement_1.PNG/?raw=true)
+![falsekingmovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_4_movement_2.PNG/?raw=true)
 
 #### Incendiary
-![incendiary](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_incendiary.PNG/?raw=true)
-
-
-
+![incendiarymovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_1.PNG/?raw=true)
+![incendiarymovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_2.PNG/?raw=true)
+![incendiarymovement3](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_3.PNG/?raw=true)
 
 ### Additional features not listed:
 - ability to play a standard game
@@ -41,4 +44,4 @@ Only rule is that you must have a King. Piece duplicates are permitted & startin
 - ability to select from 2 different drafting templates (standard and random)
 ---
 
-</br> Designed and developed by Alexander Bachmann, Joshua LaRocca, Michael Brewer, Isabelle Powell, and Daniel Amorim
+</br> Designed and developed by Alexander Bachmann, Joshua LaRocca, Michael Brewer, Isabel Powell, and Daniel Amorim
