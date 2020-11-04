@@ -10,7 +10,7 @@ Only rule is that you must have a King. Piece duplicates are permitted & startin
 ![drafting_1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/drafting_image_1.PNG?raw=true)
 ![drafting_2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/drafting_image_2.PNG?raw=true)
 
-### Piece highlighting:
+### Piece movement highlighting:
 ![highlighting](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_highlighting_1.PNG?raw=true)
 
 ### New Pieces: 
@@ -36,7 +36,7 @@ moves 1 tile in any direction and displays itself as a King until put into check
 ![falsekingmovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_4_movement_2.PNG/?raw=true)
 
 #### Incendiary
-moves 1 tile horivontally or vertically and captures all pieces around the captured tile (3 x 3 area)
+moves 1 tile horizontally or vertically and captures all pieces around the captured tile (3 x 3 area)
 ![incendiarymovement1](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_1.PNG/?raw=true)
 ![incendiarymovement2](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_2.PNG/?raw=true)
 ![incendiarymovement3](https://github.com/alexander-bachmann/chess-revitalized/blob/master/README_images/piece_5_movement_3.PNG/?raw=true)
